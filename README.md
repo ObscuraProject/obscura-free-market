@@ -30,6 +30,6 @@ The platform balances operational security with organizational transparency. All
 
 ## License
 
-**Obscura Market** is licensed under the MIT License (MIT). Copyright © 2015-2024 Earthling.
+**Obscura Market** is licensed under the MIT License (MIT). Copyright © 2025 ObscuredSight.
 
 The software is provided "as-is," without warranty of any kind, including but not limited to the warranties of merchantability and fitness for a particular purpose. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or its use.
